@@ -1,6 +1,6 @@
 {
   "name": "onedionys-scrolling-utilities",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Scrolling Utilities) - Functions to detect scroll position and provide control over scroll behavior.",
   "main": "src/scrollingUtilities.js",
   "directories": {
